@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Nguyen Dinh Tuong Oanh
     tagline: IT Bussiness Analyst
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Oanh.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: oanhnguyen183@gmail.com
@@ -40,7 +40,7 @@ career-profile:
     title: Career Profile
 
 education:
-    title: Education
+    title: Qualifications
     info:
       - degree: BA of Business English
         university: HCMC University Of Education
