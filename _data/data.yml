@@ -7,196 +7,113 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nguyen Dinh Tuong Oanh
+    tagline: IT Bussiness Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: oanhnguyen183@gmail.com
+    phone: (=84)907963326
+    timezone: Indochina UTC+7
+    citizenship: Vietnam
+    github: oanhnguyen183
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Vietnamese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Advanced
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Researchin
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Table Tennis
           link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BA of Business English
+        university: HCMC University Of Education
+
+      - degree: BA of International Business
+        university: HCMC Open University
+        
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: BUSINESS ANALYST
+        time: 2020 - Present
+        company: メトラン METRAN (Software)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Research new domains to work with stakeholders
+          - Elicit requirements, expectation, plan from stakeholders to support project
+          - Collect feedback of customer to improve product NFR & FR
+          - Consult solutions and user experience to improve requirement
+          - Update requirements, feedback from PO
+          - Resolve conflict between stakeholders
+          - Compile documents (BRD, FRS, User Story, Acceptance Criteria, Delivery Notes, Instruction Manual, Use Case)
+          - Compile wireframe and mockup (Bansamiq, Figma), BPMN, UML
+          - Training for Users
+      - role: USER TRAINER cum UAT TESTER
+        time: 2018 - 2020
+        company: メトラン METRAN (Software)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          - Train B2B customers to use new products, functions
+          - Organize training courses, exhibition in medical device and medical device software
+          - Design and performance UAT Test case (normal, abnormal and boundary case for desktop app, device, mobile app)
+          - Track bugs/defects, admin Bugzilla board for each project to track bugs & defects and report to customer periodically
+          - Collaborate & facilitate Mc.Kinsey to do User experience research in Cho Ray, Bach Mai, Nguyen Tri Phuong hospitals. Interview stakeholders to collect information
+      - role: INTERNATIONAL COMMERCIAL EXECUTIVE
         time: 2012 - 2014
-        company: Amazon, London
+        company: CPJ VIETNAM
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          - Elicit customer requirements about products, finalize design before mass production
+          - Connect with multinational customers to provide quotation, dealing contract term, process their PO, supervise manufacturing schedule, keep track customer payment, resolve their requirements & delivery issues by CRM system
+          - Research local competitors, local & international suppliers
+          - Develop customer relationship
+          - Process import-export, logistic booking
+          - Interview, onboarding & training for IC position
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Waterfall, Agile (Srum)
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Microsoft Office 365, Adobe X Pro, Joform, Confluence, Jira
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Visio, Draw.io, Miro, Bansamiq, Figma (Sketch, wireframe, mockup design), UML, BPMN
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL, API, Frontend & Backend, Payment gateway, Cloud Services, ERB, Ecommerce, CI/CD (Understand)
+        level: 10%
 
-      - name: Ruby on Rails
+      - name: UAT Testing, Bugzilla tracking
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: ISO 9001:IEC 62304 (Medical Software Standard), ISO 9001: 2008 + ISO 13485:2012
+        level: 90%
+        
+        - name: Observing, Listening & Understanding
+        level: 80%
+        
+        - name: Creative & critical thinking
+        level: 80%
+        
+        - name: Training. meeting facilitating, event holding
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
