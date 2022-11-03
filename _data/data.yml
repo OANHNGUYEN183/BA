@@ -13,10 +13,9 @@ sidebar:
 
     # Sidebar links
     email: oanhnguyen183@gmail.com
-    phone: (=84)907963326
+    phone: (+84)907963326
     timezone: Indochina UTC+7
     citizenship: Vietnam
-    github: oanhnguyen183
 
     languages:
       title: Languages
@@ -35,10 +34,7 @@ sidebar:
 
         - item: Table Tennis
           link:
-
-career-profile:
-    title: Career Profile
-
+    
 education:
     title: Qualifications
     info:
