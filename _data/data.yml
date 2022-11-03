@@ -103,13 +103,13 @@ skills:
       - name: UAT Testing, Bugzilla tracking
         level: 85%
         
-       - name: Observing, Listening & Understanding
+      - name: Observing, Listening & Understanding
         level: 80%
         
-       - name: Creative & critical thinking
+      - name: Creative & critical thinking
         level: 80%
         
-       - name: Training. meeting facilitating, event holding
+      - name: Training. meeting facilitating, event holding
         level: 90%
 
 footer: >
