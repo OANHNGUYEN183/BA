@@ -29,20 +29,20 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Researchin
+        - item: Researching
           link:
 
-        - item: Table Tennis
+        - item: Table Tennis, Badmington
           link:
     
 education:
     title: Qualifications
     info:
-      - degree: BA of Business English
-        university: HCMC University Of Education
+      - degree: Bachelor in Business English
+        university: Hochiminh University Of Education
 
-      - degree: BA of International Business
-        university: HCMC Open University
+      - degree: Bachelor in International Business
+        university: Hochiminh Open University
         
 experiences:
     title: Experiences
@@ -70,7 +70,7 @@ experiences:
           - Track bugs/defects, admin Bugzilla board for each project to track bugs & defects and report to customer periodically
           - Collaborate & facilitate Mc.Kinsey to do User experience research in Cho Ray, Bach Mai, Nguyen Tri Phuong hospitals. Interview stakeholders to collect information
       - role: INTERNATIONAL COMMERCIAL EXECUTIVE
-        time: 2012 - 2014
+        time: 2012 - 2017
         company: CPJ VIETNAM
         details: |
           - Elicit customer requirements about products, finalize design before mass production
@@ -93,9 +93,6 @@ skills:
       - name: Visio, Draw.io, Miro, Bansamiq, Figma (Sketch, wireframe, mockup design), UML, BPMN
         level: 70%
 
-      - name: SQL, API, Frontend & Backend, Payment gateway, Cloud Services, ERB, Ecommerce, CI/CD (Understand)
-        level: 10%
-
       - name: UAT Testing, Bugzilla tracking
         level: 85%
         
@@ -105,8 +102,11 @@ skills:
       - name: Creative & critical thinking
         level: 80%
         
-      - name: Training. meeting facilitating, event holding
+      - name: Training, meeting facilitating, event holding
         level: 90%
+        
+      - name: SQL, API, Frontend & Backend, Payment gateway, Cloud Services, ERB, Ecommerce, CI/CD (Understand)
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
