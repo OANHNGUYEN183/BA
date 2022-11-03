@@ -79,6 +79,12 @@ experiences:
           - Develop customer relationship
           - Process import-export, logistic booking
           - Interview, onboarding & training for IC position
+Projects: 
+    title: Skills &amp; Proficiency
+    info:
+      - JFLOW: Native C++ mobile application for both iOS and Android in healthcare domain, facilitate an environment where patients and doctors can meet treatment needs without face-to-face visit through AWS EC2.
+      - JPAP: C++ Desktop application in healthcare domain, facilitate hospitals and doctors in patient and treatment management through AWS EC2.
+      - Humming Vue ventilator: Medical device, C++ embedded software in Linux platform which control ICU ventilators
 
 skills:
     title: Skills &amp; Proficiency
