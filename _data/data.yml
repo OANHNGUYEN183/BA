@@ -60,10 +60,7 @@ experiences:
           - Compile documents (BRD, FRS, User Story, Acceptance Criteria, Delivery Notes, Instruction Manual, Use Case)
           - Compile wireframe and mockup (Bansamiq, Figma), BPMN, UML
           - Training for Users
-          Project
-          - JFLOW: Mobile application for both iOS and Android in healthcare domain, facilitate an environment where patients and doctors can meet treatment needs without face-to-face visit as well as provide remote healthcare packages.
-          - JPAP: Desktop application in healthcare domain, facilitate a system for hospitals/sleep labs and doctors in patient and treatment management.
-          - Humming Vue: Medical device, C++ embedded software in Linux platform which control ICU ventilators
+
       - role: USER TRAINER cum UAT TESTER
         time: 2018 - 2020
         company: メトラン METRAN (Software)
@@ -84,6 +81,12 @@ experiences:
           - Process import-export, logistic booking
           - Interview, onboarding & training for IC position
 
+projects:
+    title: Projects
+    intro: >
+      - JFLOW: Mobile application for both iOS and Android in healthcare domain, facilitate an environment where patients and doctors can meet treatment needs without face-to-face visit as well as provide remote healthcare packages.
+      - JPAP: Desktop application in healthcare domain, facilitate a system for hospitals/sleep labs and doctors in patient and treatment management.
+      - Humming Vue: Medical device, C++ embedded software in Linux platform which control ICU ventilators
 
 skills:
     title: Skills &amp; Proficiency
