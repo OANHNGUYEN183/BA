@@ -84,12 +84,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-    - title: JFLOW
-        link: 
-        tagline: Mobile application for both iOS and Android in healthcare domain, facilitate an environment where patients and doctors can meet treatment needs without face-to-face visit as well as provide remote healthcare packages.
-    - title: JPAP
-        link:
-        tagline: Desktop application in healthcare domain, facilitate a system for hospitals/sleep labs and doctors in patient and treatment management.
+    JFLOW: Mobile application for both iOS and Android in healthcare domain, facilitate an environment where patients and doctors can meet treatment needs without face-to-face visit as well as provide remote healthcare packages.
+    JPAP: Desktop application in healthcare domain, facilitate a system for hospitals/sleep labs and doctors in patient and treatment management.
     
 skills:
     title: Skills &amp; Proficiency
